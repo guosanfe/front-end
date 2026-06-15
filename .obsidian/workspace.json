@@ -104,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Emmet 缩写.md",
+                "file": "HTML/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emmet 缩写"
+              "title": "HTML"
             }
           },
           {
@@ -293,9 +293,9 @@
   },
   "active": "16f3ad8058d09ae2",
   "lastOpenFiles": [
+    "HTML/Emmet 缩写.md",
     "HTML/HTML.md",
     "HTML/HTML5 语义标签.md",
-    "HTML/Emmet 缩写.md",
     "现代前端开发学习路线.canvas",
     "现代前端开发学习路线.md",
     "现代前端开发学习路线.png",
