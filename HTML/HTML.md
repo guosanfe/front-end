@@ -3,4 +3,4 @@
 什么是 HTML？
 超文本标记语言 ---- ==H==yper==T==ext ==M==arkup ==L==anguage，是一种用来告知浏览器如何组织页面的==标记==语言。
 [Emmet 缩写](Emmet%20缩写.md)
-[HTML5 语义标签](HTML5%20语义标签.md)
+[HTML5 标签](HTML5%20标签.md)
